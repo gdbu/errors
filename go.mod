@@ -1,3 +1,3 @@
-module github.com/hatchify/errors
+module github.com/gdbu/errors
 
-go 1.14
+go 1.25
